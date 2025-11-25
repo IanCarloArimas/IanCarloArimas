@@ -12,6 +12,9 @@
 </p>
 
  <h2 align="center"><b>📜 Certification</b></h2>
+ <p align="center">
+  <a href="https://courses.cognitiveclass.ai/certificates/1c453124abf84cda8778dc47efde4757">SQL and Relational Databases 101</a>
+ </p>
  <h2 align="center"><b>🛠 Skill Sets</b> </h2>
  <p align="center"><b>Programming: </b> Java, JavaScript, C#
  <br>
@@ -26,7 +29,7 @@ Public Transport Agency
 <br>
 RTA.AE
  <br>
- <a href="https://www.rta.ae/wps/portal/rta/ae/home?lang=en"><img src="https://mediaoffice.ae/-/media/2022/jan/01-01/rta-logo.png?h=300&w=400&hash=AC4634516DA8C00F53E11D131E4B8B66" alt="Girl in a jacket" width="100" height="120"background-color:white;></a>
+ <a href="https://www.rta.ae/wps/portal/rta/ae/home?lang=en"><img src="https://mediaoffice.ae/-/media/2022/jan/01-01/rta-logo.png?h=300&w=400&hash=AC4634516DA8C00F53E11D131E4B8B66" width="100" height="120"background-color:white;></a>
   </p>
 <h2 align="center"><b>Contact ME @ </b></h2>
 <p align="center">
