@@ -1,4 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ian Carlo A. Balajadia</h1>
+ <p align="center">A 2nd Year BS Computer Science Student with passion towards creating future</p>
+
+## 💼**Work**
+_PR & Social Media Executive_
+-Public Transport Agency
+-RTA.AE
+
+
+
+
+
 
 <!--
 **IanCarloArimas/IanCarloArimas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
