@@ -35,7 +35,7 @@ RTA.AE
 <p align="center">
 <a href="https://web.facebook.com/IancarloArimasOFFICIAL">Facebook</a>
   <br>
-<b>📧Email: </b> iancarloarimas@gmail.com
+<b>📧Email: </b> icearimas0401@gmail.com
 </p>
 
 
