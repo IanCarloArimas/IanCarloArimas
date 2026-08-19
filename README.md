@@ -25,7 +25,7 @@
  
 <h2 align="center"><b>💼WORK</b></h2>
  <p align="center"> <em>PR & Social Media Executive</em><br>
-Public Transport Agency 
+Public Transport Agency 2022-2024
 <br>
 RTA.AE
  <br>
