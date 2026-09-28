@@ -24,7 +24,7 @@
  </p>
  
 <h2 align="center"><b>💼WORK</b></h2>
- <p align="center"> <em></em><br>
+ <p align="center"> <em></em>
 Public Transport Agency 2022-2024
 <br>
 RTA.AE
